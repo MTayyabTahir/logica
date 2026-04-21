@@ -1,0 +1,81 @@
+{
+  "leaderboard": [
+    {
+      "id": 1,
+      "name": "Giulia Verdini",
+      "score": 2980
+    },
+    {
+      "id": 2,
+      "name": "Marco Rossi",
+      "score": 2721
+    },
+    {
+      "id": 3,
+      "name": "Sofia Bianchi",
+      "score": 2579
+    },
+    {
+      "id": 4,
+      "name": "Luca Conti",
+      "score": 2450
+    },
+    {
+      "id": 5,
+      "name": "Anna Ferrari",
+      "score": 2100
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "Admin logica test 1",
+      "description": "Lorem ipsum is simply dummy text of the printing and typesetting industry.",
+      "xp": 650
+    },
+    {
+      "id": 2,
+      "title": "Admin logica test 2",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "xp": 500
+    },
+    {
+      "id": 3,
+      "title": "Admin logica test 3",
+      "description": "Standard dummy text ever since the 1500s.",
+      "xp": 800
+    },
+    {
+      "id": 4,
+      "title": "Admin logica test 2",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "xp": 500
+    },
+    {
+      "id": 2,
+      "title": "Admin logica test 2",
+      "description": "Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.",
+      "xp": 500
+    }
+  ],
+  "user": {
+    "id": 5,
+    "name": "Dr. Luca",
+    "avatar": "https://randomuser.me/api/portraits/men/32.jpg",
+    "totalXp": 1950
+  },
+  "notes": [
+    {
+      "text": 1,
+      "projectId": "this is googd",
+      "timestamp": "2026-04-21T12:40:17.826Z",
+      "id": 1
+    },
+    {
+      "text": 1,
+      "projectId": "good",
+      "timestamp": "2026-04-21T12:52:50.825Z",
+      "id": 2
+    }
+  ]
+}
